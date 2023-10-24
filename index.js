@@ -36,6 +36,12 @@ const songs = [
         displayName: 'Jurus Rahasia Teleport',
         cover: 'assets/4.jpeg',
         artist: 'JKT48',
+    },
+    {
+        path: 'assets/5.mp3',
+        displayName: 'Strawberry Soju',
+        cover: 'assets/5.jpeg',
+        artist: 'Jesse Barrera',
     }
 ];
 
